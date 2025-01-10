@@ -8,12 +8,14 @@ function Projects() {
       description: 'Developed a responsive platform for blood donation, implementing user registration and donor matching features.',
       link: 'https://tamilvendhan23.github.io/blood-drop/',
       github: 'https://github.com/tamilvendhan23/blood-drop',
-      image: 'https://source.unsplash.com/random/800x600?blood,medical',
+      image: '../img/bloodDrop.png',
       tech: ['HTML', 'CSS', 'Bootstrap', 'JavaScript']
     },
     {
       title: '30 Days AWS Cloud Challenge',
       description: 'Completed a comprehensive 30-day challenge with hands-on experience in AWS, deploying serverless solutions.',
+      link: ' ',
+      github: ' ',
       image: 'https://source.unsplash.com/random/800x600?cloud,technology',
       tech: ['AWS EC2', 'S3', 'Lambda']
     }
