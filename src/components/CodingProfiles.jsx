@@ -9,35 +9,35 @@ function CodingProfiles() {
       name: 'GeeksforGeeks',
       icon: <SiGeeksforgeeks size={40} />,
       link: 'https://auth.geeksforgeeks.org/user/tamilvendhan23',
-      problems: '200+ Problems',
+      problems: '250+ Problems',
       color: 'from-green-400 to-green-600'
     },
     {
       name: 'LeetCode',
       icon: <SiLeetcode size={40} />,
       link: 'https://leetcode.com/tamilvendhan23/',
-      problems: '150+ Problems',
+      problems: '250+ Problems',
       color: 'from-yellow-400 to-yellow-600'
     },
     {
       name: 'HackerRank',
       icon: <FaHackerrank size={40} />,
       link: 'https://www.hackerrank.com/tamilvendhan23',
-      problems: '300+ Problems',
+      problems: '100+ Problems',
       color: 'from-green-500 to-green-700'
     },
     {
       name: 'Coding Ninjas',
       icon: <FaLaptopCode size={40} />,
-      link: 'https://www.codingninjas.com/studio/profile/tamilvendhan23',
-      problems: '100+ Problems',
+      link: 'https://www.naukri.com/code360/profile/tamilvendhan',
+      problems: '780+ Problems',
       color: 'from-orange-400 to-orange-600'
     },
     {
       name: 'SkillRack',
       icon: <FaCode size={40} />,
-      link: 'https://www.skillrack.com/profile/tamilvendhan23',
-      problems: '50+ Problems',
+      link: 'https://www.skillrack.com/faces/resume.xhtml?id=408198&key=949a69f6a00a9678fedad145aa2293613372538a',
+      problems: '980+ Problems',
       color: 'from-blue-400 to-blue-600'
     }
   ];

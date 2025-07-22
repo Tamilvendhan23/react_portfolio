@@ -23,7 +23,8 @@ function HeroContent() {
           <FaEnvelope /> Contact Me
         </a>
         <a
-          href="/TamilvendhanM_Resume.pdf"
+          // href="/TamilvendhanM_Resume.pdf"
+          href="https://docs.google.com/document/d/1bY00yyJbZKlf-mlLJUOMldFsTs_NARgp-Kl9PlVIt6g/export?format=pdf"
           download
           className="flex items-center gap-2 bg-gray-800 dark:bg-gray-700 text-white px-6 py-3 rounded-lg hover:bg-gray-900 dark:hover:bg-gray-800 transition-colors"
         >

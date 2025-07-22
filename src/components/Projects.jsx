@@ -14,10 +14,26 @@ function Projects() {
     {
       title: '30 Days AWS Cloud Challenge',
       description: 'Completed a comprehensive 30-day challenge with hands-on experience in AWS, deploying serverless solutions.',
-      link: ' ',
-      github: ' ',
-      image: 'https://source.unsplash.com/random/800x600?cloud,technology',
+      link: '',
+      github: '',
+      image: 'https://miro.medium.com/v2/resize:fit:600/1*W02WEmR0_JeJXfLWN2zHwQ.png',
       tech: ['AWS EC2', 'S3', 'Lambda']
+    },
+    {
+      title: 'E-commerce Website',
+      description: 'Developed a responsive e-commerce website with user authentication, product listing, and cart functionality.',
+      link: 'https://m-ini-e-commerce.vercel.app',
+      github: 'https://github.com/Tamilvendhan23/MIni_E-commerce',
+      image: 'https://source.unsplash.com/random/800x600?shopping,ecommerce',
+      tech: ['React', 'Next.js', 'Tailwind CSS', 'Firebase', 'MongoDB', 'Node.js', 'Express.js', 'JWT']
+    },
+    {
+      title: 'Task Scheduler',
+      description: 'Designed to help users manage their daily tasks and goals efficiently. Features intelligent reminders and import/export functionality.',
+      link: 'https://tasker1-pink.vercel.app',
+      github: 'https://github.com/Tamilvendhan23/Schedule-Task-Manager',
+      image: '',
+      tech: ['React', 'Next.js', 'Tailwind CSS', 'Bootstrap']
     }
   ];
 

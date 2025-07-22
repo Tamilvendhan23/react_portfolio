@@ -1,6 +1,19 @@
-import { FaCode, FaChartBar } from 'react-icons/fa';
+import { FaCode, FaChartBar, FaLaptopCode } from 'react-icons/fa';
 
 export const experiences = [
+  {
+    title: 'Frontend Web Developer',
+    company: 'Brainwave Matrix Solutions',
+    period: 'June 2025 - Present',
+    location: 'Noida, Uttar Pradesh, India (Remote)',
+    description: [
+      'Currently pursuing a Web Development Internship at Brainwave Matrix Solutions under the internship program ID JN17.2.',
+      'Building and optimizing responsive user-facing features using modern JavaScript frameworks.',
+      'Collaborating with team members to develop scalable and maintainable web applications.',
+      'Applying best practices in frontend development with technologies like React.js, Vite, and Node.js.'
+    ],
+    icon: <FaLaptopCode className="text-blue-500 dark:text-blue-400" size={24} />
+  },
   {
     title: 'Web Developer Intern',
     company: 'Big Bucks Innovation Company',
@@ -12,18 +25,6 @@ export const experiences = [
       'Applied problem-solving skills to optimize code for efficiency and enhance application performance.'
     ],
     icon: <FaCode className="text-blue-500 dark:text-blue-400" size={24} />
-  },
-  {
-    title: 'Data Analytics Intern',
-    company: 'Hotech Company',
-    period: 'Jan 2024 - Apr 2024',
-    location: 'Chennai',
-    description: [
-      'Analyzed large datasets using Python and SQL to derive meaningful insights.',
-      'Created interactive dashboards using Power BI for data visualization.',
-      'Implemented machine learning models for predictive analytics.',
-      'Collaborated with cross-functional teams to optimize business processes.'
-    ],
-    icon: <FaChartBar className="text-purple-500 dark:text-purple-400" size={24} />
   }
+  
 ];
